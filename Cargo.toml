@@ -1,0 +1,17 @@
+[package]
+name = "coben-rs"
+version = "1.0.0"
+authors = ["Keyacom <wmarzec06.wm AT gmail DOT com>"]
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+statrs = "^0.16.0"
+formatx = "^0.2.1"
+expandtabs-rs = "^0.1.0"
+clap = {version = "^4.2.4", features = ["derive"]}
+csv = "^1.1"
+
+[dev-dependencies]
+clippy = "^0.0.302"

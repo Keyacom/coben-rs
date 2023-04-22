@@ -1,0 +1,5 @@
+* text=auto
+
+*.lock text -diff
+*.rs text eol=lf
+*.toml text eol=lf
