@@ -12,3 +12,9 @@ target/
 
 # MSVC Windows builds of rustc generate these, which store debugging information
 *.pdb
+
+## Custom .gitignore patterns below.
+# ignore VSCode and IDEA files
+.vscode/*
+!.vscode/extensions.json
+.idea/
