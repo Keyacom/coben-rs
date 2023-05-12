@@ -7,3 +7,4 @@ Part of the [COBEN implementation collection](https://github.com/Keyacom/coben-i
 ## Building
 
 The build process can be carried out with even the most normal `cargo build`.
+Rust 1.67 or newer is required.
